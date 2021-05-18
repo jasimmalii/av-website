@@ -8,17 +8,17 @@ task list for Website in --- future modifications
 4. in modules we have, weed, av, ev, track/model, Adas
 5. all features should redirect to their new page
 
-## Nav bar
+## Nav bar (Done)
 Home
 Team (Board of directors, international collaborator, co founders, technical team)
 
-## Research
+## Research(DONE)
 1. White papers
 2. publication
 
 Blogs (domain news) (Tutorials)
 Gallery
-Contact us 
+Contact us (Done)
 
 You can merge the section or add or remove as per the technical and visual requirements of the Website layout.
 
