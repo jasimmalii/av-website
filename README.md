@@ -25,3 +25,22 @@ You can merge the section or add or remove as per the technical and visual requi
 
 #thatta
 #mirpurkhas
+
+
+Shumaila Need to contribute the following
+1. whitepapers 3
+2. blog 4
+3. fancy hd images and videos 
+4. car animation with 3d model on solid works
+
+
+# catchy lines
+## for team
+explore our team
+
+## footer 
+make footer small
+footer content should include 
+1. social links
+2. map
+3. email address
