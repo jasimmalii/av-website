@@ -45,4 +45,5 @@ footer content should include
 2. map
 3. email address
 
-
+#Jasim 18th of may 2021
+done with navbar, modules , contact page , footer , left with adas page 
