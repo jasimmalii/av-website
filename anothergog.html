@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>database</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</head>
+<body>
+  <form id="SampleForm" method="post" autocomplete="off" name="frm">
+  	<center><br><br>
+         <h1>Registration Form</h1><br>
+         <table border="5">	
+            
+             <tr><td><b>Name : </b></td>
+             <td><input type="text" name="Name"   required="" /></td>
+            </tr>
+            <tr><td><b>Email : </b></td>
+            <td><input type="text" name="Email"   required="" /></td>
+            </tr>
+            <tr><td><b>Phone no. : </b></td>
+            <td><input type="number" name="Phone"   required="" /></td>
+            </tr>
+            <tr><td><b>Gender : </b></td>
+             <td><input type="radio"  name="Gender" value="male" >male
+            <input type="radio"  name="Gender" value="female"  >female<br/></td>
+             </tr>
+           
+         </table>
+         <br><br>
+        <!-- <input type="submit" name="submit" value="Submit"/>--><button id="formButton" type="submit" name="submit">send</button>
+    </center>
+  </form>
+
+<a style="display: none;" id="form1"  href="papers/id.pdf" download class="btn btn-sm btn-dark">Download PDF</a>
+
+
+
+  <script type="text/javascript">
+
+
+	  const scriptURL = 'https://script.google.com/macros/s/AKfycbwz3-_2ssjWyA-Ch-99A3P9vqIHu8GQkFXXWtyKkfOvLdthXMOnwJAq1EjJVF655RG_bg/exec'
+            const form = document.forms['frm']
+          
+            form.addEventListener('submit', e => {
+              e.preventDefault()
+              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => alert("You have successfully submitted."))
+                .catch(error => console.error('Error!', error.message))
+            })
+
+$('#SampleForm').submit(function(e){
+    e.preventDefault();
+
+    // do ajax now
+    $("#form1").toggle();
+});
+
+
+/*
+$(document).ready(function() {
+  $("#formButton").click(function() {
+    $("#form1").toggle();
+  });
+});*/
+
+  </script>
+</body>
+</html>
