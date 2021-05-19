@@ -47,3 +47,5 @@ footer content should include
 
 #Jasim 18th of may 2021
 done with navbar, modules , contact page , footer , left with adas page and teams 
+#jasim 19th of may 2021
+done with blogs, team page , videos for landing page ,left with adas only
