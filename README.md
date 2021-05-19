@@ -34,6 +34,23 @@ Shumaila Need to contribute the following
 4. car animation with 3d model on solid works
 
 
+
+
+change images same template using water mark
+redirect blogs
+remove testimonial
+ADAS page (HEADING = ADVANCED DRIVER ASSISTANCE SYSTEM)
+and some text following the heasding like "Smart city lab takes prides in introducing vast features of ADAS in form of a vehicle - add on kit. the whole idea is packaged to be a intelligent vehicle management, monitoring and assistance system ..."
+weed bot
+
+#Board of Advisors
+1. Dr. khurrum
+2. Dr Adnan
+3. dr huma - abudhabi university
+4. dr zeeshan - DFKI 
+5. dr najeed
+6. dr shehzad
+
 # catchy lines
 ## for team
 explore our team
@@ -49,3 +66,16 @@ footer content should include
 done with navbar, modules , contact page , footer , left with adas page and teams 
 #jasim 19th of may 2021
 done with blogs, team page , videos for landing page ,left with adas only
+
+
+## notes for shumaila
+1. idc 1 lainch car image to be replaced by a 3d model of av
+2. images for gallery
+
+
+#numeric stats will be changed to pur clients section
+scube
+intelixia
+land rover
+dfki
+daad
