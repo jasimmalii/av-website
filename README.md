@@ -66,7 +66,9 @@ footer content should include
 done with navbar, modules , contact page , footer , left with adas page and teams 
 #jasim 19th of may 2021
 done with blogs, team page , videos for landing page ,left with adas only
-
+#jasim 20may 2021 
+done with adas page , i.e images e.t.c 
+separate team page done just images have to be replaced , takes lot of time when downloading images 
 
 ## notes for shumaila
 1. idc 1 lainch car image to be replaced by a 3d model of av
