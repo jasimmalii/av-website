@@ -74,13 +74,19 @@ separate team page done just images have to be replaced , takes lot of time when
 separate blogs page done ,separate gallery page has been done
 
 ## notes for shumaila
-1. idc 1 lainch car image to be replaced by a 3d model of av
+1. idc 1 launch car image to be replaced by a 3d model of av
 2. images for gallery
 
 
-#numeric stats will be changed to pur clients section
+#numeric stats will be changed to pur colab section
 scube
 intelixia
 land rover
 dfki
 daad
+
+
+## update 24 jan 
+1. change module to project
+2. add hyper link to it
+3. set size
